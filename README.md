@@ -3,7 +3,7 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 steps to install it in termux :
 
 apt install python git -y
-git clone https://github.com/Sanif007/sms-scammer
+git clone https://github.com/sudoSU-01/VPS-Virtual-Private-SMS.git
 pip install requests
-cd sms-scammer
+cd VPS-Virtual-Private-SMS
 python VPS.py
